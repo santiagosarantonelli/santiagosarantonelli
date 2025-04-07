@@ -1,1 +1,3 @@
-## Perfil de Santiago Sarantonelli, desarrollador Full Stack
+## Perfil de Santiago Sarantonelli
+
+Desarrollador Full Stack
