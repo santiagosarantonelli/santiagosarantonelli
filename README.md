@@ -20,5 +20,6 @@
 <div>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-e4d04b?style=for-the-badge&logo=javascript&logoColor=e4d04b&labelColor=282828">
 </div>
 </p>
